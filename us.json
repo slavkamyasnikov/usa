@@ -1,8 +1,4 @@
-{
-    "id": 3,
-    "city": "Atlanta GA",
-    "country": "United States",
-    "monthlyAvg": [
+{monthlyAvg": [
       {
         "high": 12,
         "low": 2,

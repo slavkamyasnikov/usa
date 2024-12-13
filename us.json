@@ -1,0 +1,91 @@
+{
+    "id": 3,
+    "city": "Atlanta GA",
+    "country": "United States",
+    "monthlyAvg": [
+      {
+        "high": 12,
+        "low": 2,
+        "dryDays": 18,
+        "snowDays": 2,
+        "rainfall": 99.5
+      },
+      {
+        "high": 14,
+        "low": 3,
+        "dryDays": 15,
+        "snowDays": 1,
+        "rainfall": 100.4
+      },
+      {
+        "high": 19,
+        "low": 7,
+        "dryDays": 19,
+        "snowDays": 1,
+        "rainfall": 128.1
+      },
+      {
+        "high": 23,
+        "low": 11,
+        "dryDays": 18,
+        "snowDays": 0,
+        "rainfall": 86.1
+      },
+      {
+        "high": 27,
+        "low": 16,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 104.8
+      },
+      {
+        "high": 30,
+        "low": 20,
+        "dryDays": 15,
+        "snowDays": 0,
+        "rainfall": 112.3
+      },
+      {
+        "high": 31,
+        "low": 22,
+        "dryDays": 14,
+        "snowDays": 0,
+        "rainfall": 178
+      },
+      {
+        "high": 32,
+        "low": 22,
+        "dryDays": 19,
+        "snowDays": 0,
+        "rainfall": 142.8
+      },
+      {
+        "high": 28,
+        "low": 18,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 122.2
+      },
+      {
+        "high": 23,
+        "low": 12,
+        "dryDays": 22,
+        "snowDays": 0,
+        "rainfall": 73
+      },
+      {
+        "high": 18,
+        "low": 7,
+        "dryDays": 20,
+        "snowDays": 0,
+        "rainfall": 106.9
+      },
+      {
+        "high": 13,
+        "low": 2,
+        "dryDays": 18,
+        "snowDays": 2,
+        "rainfall": 101.9
+      }
+    ]
+  }
